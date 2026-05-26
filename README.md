@@ -22,8 +22,7 @@ This project analyses a real-world influencer marketing campaign involving **27 
 ---
 
 ## 📂 Project Structure
-**Dashboard**
- [View Interactive Dashboard on Looker Studio](https://datastudio.google.com/reporting/6e5413c5-2f1b-4fe0-a783-ec0d65f1a286) 
+ **[View Interactive Dashboard on Looker Studio](https://datastudio.google.com/reporting/6e5413c5-2f1b-4fe0-a783-ec0d65f1a286)**
 
 **Visuals**
  ![Campaign Report 2025](./campaign_report.jpeg)   
