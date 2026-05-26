@@ -32,13 +32,13 @@ influencer-campaign-analysis-2025/
 │
 ├── notebooks/
 │   └── campaign_analysis.ipynb   # Main analysis notebook
-│
-├── dashboard/
-│   └── index.html            # Interactive portfolio dashboard
-
 ```
+│
+dashboard
+│   [View Interactive Dashboard on Looker Studio](https://datastudio.google.com/reporting/6e5413c5-2f1b-4fe0-a783-ec0d65f1a286)   # Interactive portfolio dashboard
+
 visuals
-│   └── ![Campaign Report 2025](./campaign_report.jpeg)   # Original campaign report screenshot
+│   ![Campaign Report 2025](./campaign_report.jpeg)   # Original campaign report screenshot
 
 
 
