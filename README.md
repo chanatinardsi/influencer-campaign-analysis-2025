@@ -22,23 +22,11 @@ This project analyses a real-world influencer marketing campaign involving **27 
 ---
 
 ## 📂 Project Structure
-
-```
-influencer-campaign-analysis-2025/
-│
-├── data/
-│   ├── raw/                  # Original campaign data
-│   └── processed/            # Cleaned and transformed data
-│
-├── notebooks/
-│   └── campaign_analysis.ipynb   # Main analysis notebook
-```
-│
 dashboard
-│   [View Interactive Dashboard on Looker Studio](https://datastudio.google.com/reporting/6e5413c5-2f1b-4fe0-a783-ec0d65f1a286)   # Interactive portfolio dashboard
+│   [View Interactive Dashboard on Looker Studio](https://datastudio.google.com/reporting/6e5413c5-2f1b-4fe0-a783-ec0d65f1a286) 
 
 visuals
-│   ![Campaign Report 2025](./campaign_report.jpeg)   # Original campaign report screenshot
+│   ![Campaign Report 2025](./campaign_report.jpeg)   
 
 
 
