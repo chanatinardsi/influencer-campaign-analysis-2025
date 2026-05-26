@@ -37,7 +37,7 @@ influencer-campaign-analysis-2025/
 │   └── index.html            # Interactive portfolio dashboard
 
 ```
-├── visuals/
+visuals
 │   └── ![Campaign Report 2025](./campaign_report.jpeg)   # Original campaign report screenshot
 
 
