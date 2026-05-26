@@ -37,7 +37,7 @@ influencer-campaign-analysis-2025/
 │   └── index.html            # Interactive portfolio dashboard
 │
 ├── visuals/
-│   └── !(image_alt) (https://github.com/chanatinardsi/influencer-campaign-analysis-2025/blob/3e2ad27c6567289dd329013bc0907d9929ab9d5d/Image%2026-5-2569%20BE%20at%2011.45.jpeg)    # Original campaign report screenshot
+│   └── ![image_alt](https://github.com/chanatinardsi/influencer-campaign-analysis-2025/blob/3e2ad27c6567289dd329013bc0907d9929ab9d5d/Image%2026-5-2569%20BE%20at%2011.45.jpeg)    # Original campaign report screenshot
 │
 └── README.md
 ```
