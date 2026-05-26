@@ -48,9 +48,9 @@ influencer-campaign-analysis-2025/
 
 | Category | Tools |
 |---|---|
-| Data Analysis | Python (Pandas, NumPy) |
-| Visualisation | Chart.js, Matplotlib |
-| Dashboard | HTML / CSS / JavaScript |
+| Data Analysis | SQL|
+| Visualisation | data studio / Power BI |
+| Dashboard | HTML |
 | Version Control | Git & GitHub |
 | Reporting | Markdown, Data Storytelling |
 
