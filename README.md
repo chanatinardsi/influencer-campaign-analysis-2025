@@ -23,11 +23,10 @@ This project analyses a real-world influencer marketing campaign involving **27 
 
 ## 📂 Project Structure
 dashboard
-│   [View Interactive Dashboard on Looker Studio](https://datastudio.google.com/reporting/6e5413c5-2f1b-4fe0-a783-ec0d65f1a286) 
+ [View Interactive Dashboard on Looker Studio](https://datastudio.google.com/reporting/6e5413c5-2f1b-4fe0-a783-ec0d65f1a286) 
 
 visuals
-│   ![Campaign Report 2025](./campaign_report.jpeg)   
-
+ ![Campaign Report 2025](./campaign_report.jpeg)   
 
 
 ---
@@ -64,20 +63,6 @@ The interactive dashboard includes:
 4. **Seeding strategy on TikTok** (e.g. pkbacon07) shows cost-effective reach potential worth scaling
 5. **Maintain CPE below ฿1.00** as a benchmark for future campaign negotiations
 
----
-
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/influencer-campaign-analysis-2025.git
-
-# Open the dashboard
-open dashboard/index.html
-
-# Or run the analysis notebook
-jupyter notebook notebooks/campaign_analysis.ipynb
-```
 
 ---
 
