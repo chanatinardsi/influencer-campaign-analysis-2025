@@ -95,11 +95,11 @@ jupyter notebook notebooks/campaign_analysis.ipynb
 
 ## 👤 About
 
-Made by **[Your Name]** — Data Analyst passionate about marketing analytics and data storytelling.
+Made by **[Chanatinard Sinjiratornkul]** — Data Analyst passionate about marketing analytics and data storytelling.
 
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 your.email@example.com
+- 📧 chanatinard.si@gmail.com
 
 ---
 
-*Last updated: May 2025*
+*Last updated: May 2026*
