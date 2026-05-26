@@ -62,14 +62,13 @@ The interactive dashboard includes:
 4. **Seeding strategy on TikTok** (e.g. pkbacon07) shows cost-effective reach potential worth scaling
 5. **Maintain CPE below ฿1.00** as a benchmark for future campaign negotiations
 
-
 ---
 
 ## 👤 About
 
-Made by **[Chanatinard Sinjiratornkul]** — Data Analyst passionate about marketing analytics and data storytelling.
+Made by **Chanatinard Sinjiratornkul** — Data Analyst passionate about marketing analytics and data storytelling.
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chanatinard-sinjiratornkul-00a52b200?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - 📧 chanatinard.si@gmail.com
 
 ---
