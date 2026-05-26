@@ -23,7 +23,7 @@ This project analyses a real-world influencer marketing campaign involving **27 
 
 ## 📂 Project Structure
 
-
+```
 influencer-campaign-analysis-2025/
 │
 ├── data/
@@ -35,11 +35,11 @@ influencer-campaign-analysis-2025/
 │
 ├── dashboard/
 │   └── index.html            # Interactive portfolio dashboard
-│
+
+```
 ├── visuals/
 │   └── ![Campaign Report 2025](./campaign_report.jpeg)   # Original campaign report screenshot
-│
-└── README.md
+
 
 
 ---
